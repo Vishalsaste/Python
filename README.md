@@ -1,8 +1,4 @@
 # Python
-Python - DSA , OOPs and Basic to Advance Python 
-
-
-# Python
 
 Python Basic to advance 
 with DSA , OOPs concept and Built-in Python Data Structures and concept
