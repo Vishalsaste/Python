@@ -11,7 +11,7 @@
 
      3 - Circular Linkedlist
 
-## 1  Singly Linkedlist
+## 1 - Singly Linkedlist
 
 Singly linked list. Singly linked lists contain nodes which have a 'value' field as well as 'next' field, which points to the next node in line of nodes. Operations that can be performed on singly linked lists include insertion, deletion and traversal.
 
@@ -24,7 +24,7 @@ Singly linked list. Singly linked lists contain nodes which have a 'value' field
 - traversal
 
 
-## 1 - insertion
+## a - insertion
 
      Add / insert element in singly Linkedlist
 
@@ -44,7 +44,7 @@ Singly linked list. Singly linked lists contain nodes which have a 'value' field
 
 ![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20240219155516/Insertion-at-a-Specific-Position-of-the-Singly-Linked-List.webp)
 
-## 2 - deletion
+## b - deletion
 
      Delete / remove element in singly Linkedlist
 
@@ -56,7 +56,7 @@ Singly linked list. Singly linked lists contain nodes which have a 'value' field
 
 ![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20240219155516/Insertion-at-a-Specific-Position-of-the-Singly-Linked-List.webp)
 
-### at Last
+### -at Last
 
 ![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20240219155610/Deletion-at-the-End-of-Singly-Linked-List.webp)
 
