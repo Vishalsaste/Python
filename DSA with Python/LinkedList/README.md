@@ -1,7 +1,7 @@
 
 ##  Data Structures & Algorithm
 
-  ##-  Linked lists
+  ##  Linked lists
 
      Three types of linked lists
      
