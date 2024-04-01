@@ -32,15 +32,15 @@ Singly linked list. Singly linked lists contain nodes which have a 'value' field
      - at the ending
      - in between nodes
     
-### at the beginning  
+### -at the beginning  
 
 ![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20240219155412/Insertion-at-the-Beginning-of-Singly-Linked-List.webp)
       
-### at the ending
+### -at the ending
 
 ![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20240219155451/Insertion-at-the-End-of-Singly-Linked-List.webp)
 
-### in between nodes
+### -in between nodes
 
 ![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20240219155516/Insertion-at-a-Specific-Position-of-the-Singly-Linked-List.webp)
 
@@ -65,6 +65,6 @@ Singly linked list. Singly linked lists contain nodes which have a 'value' field
 ![App Screenshot](https://media.geeksforgeeks.org/wp-content/uploads/20240219155715/Deletion-at-a-Specific-Position-of-Singly-Linked-List.webp)
 
 
-## 3 - traversal
+## c - traversal
 
   Traversing through the nodes will allow us to print all the elements in a linked list. In order to traverse through a linked list, we need to start at the head of the linked list and move to the next node and repeat this process till we reach the end, which is denoted by NULL in the linked list.
