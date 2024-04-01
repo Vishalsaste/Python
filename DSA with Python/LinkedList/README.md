@@ -1,11 +1,5 @@
 
-# Python
-
-Python Basic to advance 
-with DSA , OOPs concept and Built-in Python Data Structures and concept
-
-
-###  Data Structures & Algorithm
+##  Data Structures & Algorithm
 
   -  Linked lists
 
