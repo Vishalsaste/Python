@@ -19,20 +19,20 @@ class LinkedList :
                 print(n.data, "--->" , end=" ")
                 n = n.ref
 
-    #Add a node to the beginning of the linked list.
+    #Insert a node to the beginning of the linked list.
     def add_begin(self, data):
         new_node = Node(data)
         new_node.ref = self.head
         self.head = new_node
 
-    #Add a node to the beginning of the linked list.
+    #Delete a node to the beginning of the linked list.
     def delete_begin(self):
         if self.head is None:
             print("LL is empty i cant delete this node")
         else:
             self.head = self.head.ref
 
-     #Add a node to the beginning of the linked list.
+     #delete a node to the end of the linked list.
     def delete_end(self):
         if self.head is None:
             print("LL is empty i cant delete this node")
@@ -44,7 +44,7 @@ class LinkedList :
                 n = n.ref
             n.ref = None
 
-    #Add a node to the middle / by value of the linked list.  
+    #delete a node to the middle / by value of the linked list.  
     def delete_by_value(self,x):
         if self.head is None:
             print("LL is empty i cant delete this node")
