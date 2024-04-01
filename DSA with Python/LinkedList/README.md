@@ -40,4 +40,4 @@ Operations -
 
 3 - traversal
 
-     Traversing through the nodes will allow us to print all the elements in a linked list. In order to traverse through a linked list, we need to start at the head of the linked list and move to the next node and repeat this process till we reach the end, which is denoted by NULL in the linked list.
+  Traversing through the nodes will allow us to print all the elements in a linked list. In order to traverse through a linked list, we need to start at the head of the linked list and move to the next node and repeat this process till we reach the end, which is denoted by NULL in the linked list.
