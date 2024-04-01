@@ -1,3 +1,9 @@
+'''INSERTION METHOD IN SINGLY LINKED LIST
+    there are three method 
+    1- at beginning 
+    2- at end 
+    3- in between (before and after the node )
+    and while LL is empty'''
 #A node class to represent a single node in a linked list.
 #Define a node Class
 class Node:
